@@ -6,7 +6,7 @@ Little examples of statistics in R
 
 [Nominal data](https://github.com/s4rduk4r/R-examples/blob/main/02%20-%20Descriptive%20statistics.%20Nominal%20data%20example%20in%20R.ipynb)
 
-### Hypotheses tests
+## Hypotheses tests
 [One-sample T-test](https://github.com/s4rduk4r/R-examples/blob/main/03%20-%20Statistical%20hypotheses.%20One%20sample%20test%20example%20in%20R.ipynb)
 
 [Two-sample normal distribution](https://github.com/s4rduk4r/R-examples/blob/main/04%20-%20Statistical%20hypotheses.%20Pair%20tests%20example%20in%20R.ipynb)

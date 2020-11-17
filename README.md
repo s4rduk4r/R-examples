@@ -19,4 +19,6 @@ Little examples of statistics in R
 
 [Two-sample paired nominal data](https://github.com/s4rduk4r/R-examples/blob/main/08%20-%20Statistical%20hypotheses.%20Pair%20tests%20example%205%20in%20R.ipynb)
 
-[Multiple comparisons. Numeric data](https://github.com/s4rduk4r/R-examples/blob/main/09%20-%20Statistical%20hypotheses.%20Multiple%20comparisons%20tests%20example%206%20in%20R.ipynb)
+[Multiple comparisons normal distribution](https://github.com/s4rduk4r/R-examples/blob/main/09%20-%20Statistical%20hypotheses.%20Multiple%20comparisons%20tests%20example%206%20in%20R.ipynb)
+
+[Multiple comparisons non-normal distribution](https://github.com/s4rduk4r/R-examples/blob/main/10%20-%20Statistical%20hypotheses.%20Multiple%20comparisons%20tests%20example%207%20in%20R.ipynb)

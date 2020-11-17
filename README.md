@@ -17,3 +17,4 @@ Little examples of statistics in R
 
 [Two-sample nominal data](https://github.com/s4rduk4r/R-examples/blob/main/07%20-%20Statistical%20hypotheses.%20Pair%20tests%20example%204%20in%20R.ipynb)
 
+[Two-sample paired nominal data](https://github.com/s4rduk4r/R-examples/blob/main/08%20-%20Statistical%20hypotheses.%20Pair%20tests%20example%205%20in%20R.ipynb)

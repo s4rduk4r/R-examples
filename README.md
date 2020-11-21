@@ -27,3 +27,7 @@ Little examples of statistics in R
 [Multiple comparisons non-normal distribution](https://github.com/s4rduk4r/R-examples/blob/main/10%20-%20Statistical%20hypotheses.%20Multiple%20comparisons%20tests%20example%207%20in%20R.ipynb)
 
 [Multiple comparisons nominal data](https://github.com/s4rduk4r/R-examples/blob/main/11%20-%20Statistical%20hypotheses.%20Multiple%20comparisons%20tests%20example%208%20in%20R.ipynb)
+
+### Clinical trials
+[Comparison of two drugs](https://github.com/s4rduk4r/R-examples/blob/main/12%20-%20Clinical%20trials.%20Example%20in%20R.ipynb)
+

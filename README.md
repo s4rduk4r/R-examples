@@ -1,6 +1,6 @@
 ![R-examples logo](https://github.com/s4rduk4r/R-examples/blob/main/R-examples-logo.png)
 
-Little examples of statistics in R
+Little examples of medical statistics in R
 
 ## Descriptive statistics 
 [Numeric data](https://github.com/s4rduk4r/R-examples/blob/main/01%20-%20Descriptive%20statistics.%20Numeric%20data%20example%20in%20R.ipynb)

@@ -1,4 +1,4 @@
-# R-examples
+![R-examples logo](https://github.com/s4rduk4r/R-examples/blob/main/R-examples-logo.png)
 Little examples of statistics in R
 
 ## Descriptive statistics 

@@ -32,3 +32,6 @@ Little examples of medical statistics in R
 ### Clinical trials
 [Comparison of two drugs](https://github.com/s4rduk4r/R-examples/blob/main/12%20-%20Clinical%20trials.%20Example%20in%20R.ipynb)
 
+### Correlation and regression
+[Correlation and linear regression](https://github.com/s4rduk4r/R-examples/blob/main/13%20-%20Correlation%20and%20regression%20analysis.%20Example%20in%20R.ipynb)
+
